@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harmon Wood</title>
+    <link>https://harmonwood.github.io/</link>
+    <description>Recent content on Harmon Wood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2017 10:12:06 -0500</lastBuildDate>
+    
+	<atom:link href="https://harmonwood.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing</title>
+      <link>https://harmonwood.github.io/post/testing/</link>
+      <pubDate>Tue, 11 Jul 2017 10:12:06 -0500</pubDate>
+      
+      <guid>https://harmonwood.github.io/post/testing/</guid>
+      <description>Testing this post.</description>
+    </item>
+    
+  </channel>
+</rss>
